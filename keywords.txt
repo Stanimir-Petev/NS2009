@@ -1,0 +1,7 @@
+# Class name and default class object
+NS2009         KEYWORD1
+TS             KEYWORD1
+
+# Class Methods
+ReadRegister   KEYWORD2
+Scan           KEYWORD2
